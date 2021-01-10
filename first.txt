@@ -3,3 +3,4 @@ Gitの練習
 .git add
 .git commit
 -v 確認
+.git rm
