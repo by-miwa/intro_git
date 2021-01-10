@@ -1,7 +1,8 @@
 Gitの練習
 ワークフロー
-.git add
-.git commit
+git add
+git commit
 -v 確認
-.git rm
-.git status
+git rm
+git status
+gif diff
